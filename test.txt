@@ -6,4 +6,3 @@ Git & GitHub Practice :
 2. Change Control
 3. Collaboration.
 
-New to check git diff coommand
