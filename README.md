@@ -11,6 +11,6 @@ _This is Italic text_
 | Name | Age | Department |
 |-------|------|---|
 | Rayhan | 20 | Computer Science|
-| Rayhan | 20 | Computer Science|
+| Borhan | 20 | Computer Science|
 
 
