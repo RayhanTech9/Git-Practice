@@ -1,3 +1,7 @@
 {
-    "terminal.integrated.shellIntegration.enabled": true
+    "terminal.integrated.shellIntegration.enabled": true,
+    "cSpell.words": [
+        "Borhan",
+        "Rayhan"
+    ]
 }

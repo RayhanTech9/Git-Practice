@@ -7,7 +7,7 @@ _This is Italic text_
 </br>
 
 
-## Table :
+## 📊Table :
 | Name | Age | Department |
 |-------|------|---|
 | Rayhan | 20 | Computer Science|
