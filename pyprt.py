@@ -45,18 +45,15 @@
 
 
 rows = int(input("Enter your Rows Number : "))
-
+sum = 0
 for y in range(0,4+1):
+    sum = y+1
     for z in range(1,y+1):
-        print(z,end=" ")
+        print(sum,end=" ")
     print()
 
-
-for i in range(rows,9, -1):
-    for j in range(1,i+1):
-        print(j,end=" ")
+for i in range(rows,4,-1):
+    sum = y+1
+    for j in range(5,i+1):
+        print(j, end=" ")
     print()
-
-
-
-
