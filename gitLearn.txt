@@ -6,7 +6,11 @@ Git & GitHub Practice :
 2. Change Control
 3. Collaboration.
 
+
+
 #Git Branching: Branch is a New and Seperate branch of the Master Reposotory.
 
 In a Big Project We Seperate The Tasks / features and create branch so editing the new
  branch does not affect the master branch
+
+ #Git Branch With Pull Request Check.
